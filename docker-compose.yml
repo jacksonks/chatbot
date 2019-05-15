@@ -1,0 +1,23 @@
+protocolo:
+  restart: always
+  build: ./protocolo
+  ports:
+    - "5056:5056"
+
+chatbot:
+  container_name: chatbot
+  build: ./app
+  restart: always
+  command: /usr/local/bin/gunicorn -w 3 -b :5002 app:app
+  links:
+    - protocolo:protocolo
+  
+nginx:
+  restart: always
+  build: ./nginx
+  ports:
+    - "8080:80"
+  volumes:
+    - ./nginx/conf.d:/etc/nginx/conf.d
+  links:
+    - chatbot:chatbot
