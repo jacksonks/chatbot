@@ -1,88 +1,88 @@
 {
-    "conversations": [
-      [
-        "qual dia começa o periodo?",
-        "O periodo começa em: 18/02/2019"
-      ],
-	    [
-        "qual dia termina o periodo?",
-        "O periodo termina em: 21/06/2019"
-      ],
-	  [
-        "quando começa o periodo?",
-        "O periodo começa em: 18/02/2019"
-      ],
-	    [
-        "quando termina o periodo?",
-        "O periodo termina em: 21/06/2019"
-      ],
-	  [
-        "qual dia inicia o periodo?",
-        "O periodo começa em: 18/02/2019"
-      ],
-	    [
-        "qual dia de fim do periodo?",
-        "O periodo termina em: 21/06/2019"
-      ],
-	  [
-        "quando inicia o periodo?",
-        "O periodo começa em: 18/02/2019"
-      ],
-	    [
-        "quando é o fim do periodo?",
-        "O periodo termina em: 21/06/2019"
-      ],
-	  	[
-        "quando é o recesso escolar?",
-        "O recesso escolar é de: 21/02/2019 á 11/08/2019"
-      ],
-	    [
-        "quando são as ferias?",
-        "As ferias são de: 21/02/2019 á 11/08/2019"
-      ],
-	   	[
-        "recesso escolar?",
-        "O recesso escolar é de: 21/02/2019 á 11/08/2019"
-      ],
-	    [
-        "ferias?",
-        "As ferias são de: 21/02/2019 á 11/08/2019"
-      ],
-	  [
-        "feriados?",
-        "Os feriados do periodo são: 05/03/2019, 19/04/2019, 21/04/2019, 01/05/2019, 20/06/2019"
-      ],
-	  [
-        "caléndario acadêmico",
-        "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
-      ],
-	  	[
-        "caléndario institucional",
-        "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
-      ],
-	  [
-        "caléndario",
-        "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
-      ],
-	  [
-        "caléndario UEA",
-        "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
-      ],
-	  [
-        "caléndario EST",
-        "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
-      ],
-	  [
-        "caléndario UEA EST",
-        "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
-      ],
-	  [
-        "caléndario em pdf",
-        "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
-      ],
-	  [
-        "caléndario completo",
-        "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
-      ]
+  "conversations": [
+    [
+      "qual dia começa o periodo?",
+      "O periodo começa em: 18/02/2019"
+    ],
+    [
+      "qual dia termina o periodo?",
+      "O periodo termina em: 21/06/2019"
+    ],
+    [
+      "quando começa o periodo?",
+      "O periodo começa em: 18/02/2019"
+    ],
+    [
+      "quando termina o periodo?",
+      "O periodo termina em: 21/06/2019"
+    ],
+    [
+      "qual dia inicia o periodo?",
+      "O periodo começa em: 18/02/2019"
+    ],
+    [
+      "qual dia de fim do periodo?",
+      "O periodo termina em: 21/06/2019"
+    ],
+    [
+      "quando inicia o periodo?",
+      "O periodo começa em: 18/02/2019"
+    ],
+    [
+      "quando é o fim do periodo?",
+      "O periodo termina em: 21/06/2019"
+    ],
+    [
+      "quando é o recesso escolar?",
+      "O recesso escolar é de: 21/02/2019 á 11/08/2019"
+    ],
+    [
+      "quando são as ferias?",
+      "As ferias são de: 21/02/2019 á 11/08/2019"
+    ],
+    [
+      "recesso escolar?",
+      "O recesso escolar é de: 21/02/2019 á 11/08/2019"
+    ],
+    [
+      "ferias?",
+      "As ferias são de: 21/02/2019 á 11/08/2019"
+    ],
+    [
+      "feriados?",
+      "Os feriados do periodo são: 05/03/2019, 19/04/2019, 21/04/2019, 01/05/2019, 20/06/2019"
+    ],
+    [
+      "caléndario acadêmico",
+      "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
+    ],
+    [
+      "caléndario institucional",
+      "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
+    ],
+    [
+      "caléndario",
+      "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
+    ],
+    [
+      "caléndario UEA",
+      "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
+    ],
+    [
+      "caléndario EST",
+      "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
+    ],
+    [
+      "caléndario UEA EST",
+      "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
+    ],
+    [
+      "caléndario em pdf",
+      "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
+    ],
+    [
+      "caléndario completo",
+      "O link para vizualização e download é: https://drive.google.com/file/d/1ogW6TMhz5eFR8rVLO-EVgWznTo_p7Nyj/view?usp=sharing"
     ]
+  ],
 }
