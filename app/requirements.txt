@@ -1,4 +1,3 @@
-gunicorn
 blis
 certifi
 chardet
@@ -7,6 +6,7 @@ chatterbot-corpus
 Click
 cymem
 Flask
+gunicorn
 idna
 itsdangerous
 Jinja2

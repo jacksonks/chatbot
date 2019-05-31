@@ -42,3 +42,6 @@ def protocolo():
         if status == False:
             return make_response(jsonify({'status':'não foi possível verificar status', 'status_code':500}), 500)
     return jsonify({'status_code': 200, 'status': status})
+    
+if __name__ == '__main__':
+    app.run(debug=True)

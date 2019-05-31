@@ -32,3 +32,7 @@ EXPOSE 5056
 
 ENTRYPOINT ["sh", "start.sh"]
 
+#CMD ["Xvfb :10 -ac &", "gunicorn", "--name=selenium", "-b", "0.0.0.0:5056", "app:app"]
+
+#CMD ["python", "app.py"]
+
