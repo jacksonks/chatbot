@@ -21,7 +21,8 @@ trainer = ChatterBotCorpusTrainer(chatbot)
 
 trainer.train(
     "./data/greeting_corpus/custom.corpus.json",
-    "./data/estagio_corpus/custom.corpus.json"
+    "./data/estagio_corpus/custom.corpus.json",
+    "./data/calendario_corpus/custom.corpus.json"
 )
 
 app = Flask(__name__)
@@ -43,7 +44,8 @@ def process():
 
 @app.route('/chat', methods=['POST'])
 def chatprocess():
-    user_input = request.form['user_input']
+    req_data = request.get_json()
+    user_input = req_data['user_input']
     bot_response = chatbot.get_response(user_input)
     bot_response = str(bot_response)   
     return jsonify({'status_code': 200, 'response': bot_response})
